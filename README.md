@@ -2,8 +2,6 @@
 
 ## A script kiddie once said "Jos huutaa waktakkia niin ei oo mun ongelma" 
 
-## Table of Contents
-
 --------------------
 
 
