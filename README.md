@@ -2,6 +2,8 @@
 
 ## A script kiddie once said "Jos huutaa waktakkia niin ei oo mun ongelma" 
 
+## ts pmo fr icl
+
 --------------------
 
 
